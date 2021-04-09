@@ -1,0 +1,18 @@
+Nim       : 1811500024
+Nama      : Ani Kinanti
+Kelompok  : TI6A
+
+"Hasil Saya Menyadur"
+1. Mendownload dan menonton penjelasan materi di channel pengajar
+2. Di materi terdapat perkenalan pengajar dan diajarkan etika mahasiswa dalam berkomunikasi.
+3. Perkuliahan semester genap tahun ajaran 2020/2021 dimulai senin, 5 April 2021 dan tetap mematuhi 5M(Memakai masker, Mencuci tangan,
+Menjaga jarak,Menjauhi kerumunan, Membatasi mobilitas) serta perkuliahan dilakukan secara online dan offline (praktikum).
+4 Kegiatan perkuliahan antara lain melalui 
+a. Classroom (Instruksi kehadiran, kuis, soal + Thread pengumpulan jawaban dan materi.
+b. Youtube (video penjelasan pembelajaran, dari penjelasan video, disadur pada setiap pertemuan, dan sesuai instruksi pengajar
+c. Telegram Channel & group ( koordinasi + diskusi)
+5. membuat tim kelompok 3 orang masing-masing untuk presentasi sabagai nilai UAS nanti, sedangkan untuk UTS nya dari individu, 
+6. untuk kehadiran dilihat dari yang mengumpulkan saduran ,sedangkan untuk nilai tugas dilihat dari kualitas saduran
+7. penilaian nilai akhir yakni kehadiran 10% jika kehadiran <70 maka dinyatakan tidak lulus, tugas 20%, uts 30%, dan uas 40%(+/- sikap)
+8. Selanjutnya membuka github.com dan daftar akun terlebih dahulu
+9. Setelah itu mengerjakan saduran dan mengirim link saduran ke pengajar
